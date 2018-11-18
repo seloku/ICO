@@ -1,0 +1,8 @@
+﻿ICO;PerCent;Text
+Incentise patients to share their data ;37%;Incentise patients to share their data 
+Pay doctors ;25%;Pay doctors 
+Buy medicine;14%;Buy medicine
+Invest into medical start-ups;10%;Invest into medical start-ups
+Promote healthy life style;12%;Promote healthy life style
+Use mining power in medical research;1%;Use mining power in medical research
+Reward specialists for research articles;1%;Reward specialists for research articles
